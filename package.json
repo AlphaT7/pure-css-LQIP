@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "color-core": "^1.4.0",
+    "colorthief": "^2.6.0",
+    "sharp": "^0.34.1",
+    "vite": "^6.3.4"
+  }
+}
